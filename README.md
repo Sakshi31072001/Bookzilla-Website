@@ -1,1 +1,2 @@
 # Bookzilla-Website
+These platforms allow authors to self-publish their work and make it accessible to a wide audience, often without the need for traditional publishing routes. They typically provide tools for authors to upload and format their content, as well as features for readers to discover, read, and engage with the published works. Some well-known examples of these platforms include Wattpad, Tapas, and Webtoon.
